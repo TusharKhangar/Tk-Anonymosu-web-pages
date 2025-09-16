@@ -1,0 +1,14 @@
+D:\project\c#hands-on\helloworld\bin\Debug\net9.0\helloworld.exe
+D:\project\c#hands-on\helloworld\bin\Debug\net9.0\helloworld.deps.json
+D:\project\c#hands-on\helloworld\bin\Debug\net9.0\helloworld.runtimeconfig.json
+D:\project\c#hands-on\helloworld\bin\Debug\net9.0\helloworld.dll
+D:\project\c#hands-on\helloworld\bin\Debug\net9.0\helloworld.pdb
+D:\project\c#hands-on\helloworld\obj\Debug\net9.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\c#hands-on\helloworld\obj\Debug\net9.0\helloworld.AssemblyInfoInputs.cache
+D:\project\c#hands-on\helloworld\obj\Debug\net9.0\helloworld.AssemblyInfo.cs
+D:\project\c#hands-on\helloworld\obj\Debug\net9.0\helloworld.csproj.CoreCompileInputs.cache
+D:\project\c#hands-on\helloworld\obj\Debug\net9.0\helloworld.dll
+D:\project\c#hands-on\helloworld\obj\Debug\net9.0\refint\helloworld.dll
+D:\project\c#hands-on\helloworld\obj\Debug\net9.0\helloworld.pdb
+D:\project\c#hands-on\helloworld\obj\Debug\net9.0\helloworld.genruntimeconfig.cache
+D:\project\c#hands-on\helloworld\obj\Debug\net9.0\ref\helloworld.dll
